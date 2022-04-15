@@ -47,7 +47,7 @@ TODO.txt
 .texlipse
 
 # Old RTB4FREE database files
-database.json*
+#database.json*
 
 # STS (Spring Tool Suite)
 .springBeans
